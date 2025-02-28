@@ -6,7 +6,7 @@
 ### Gabriel Belo <p>
 `Analista de Dados ` `Analista de Sistemas ` `Analista de BI `
 
-Meu nome é Gabriel, sou pós-graduado em Ciência de Dados e atualmente cursando Análise e Desenvolvimento de Sistemas. Natural de Santa Catarina, e atualmente residindo em Itajaí - SC, tenho 25 anos e mais de 5 anos de experiência profissional na área de Dados. Especializo-me na extração e transformação de dados para traduzi-los em dashboards e insights criativos, utilizando uma combinação de análise estratégica, automação e desenvolvimento de soluções técnicas avançadas. Ao longo da minha carreira, busquei integrar diferentes vertentes da tecnologia para criar soluções inovadoras e eficientes, com foco na otimização e no impacto real para os negócios.
+Sou pós-graduado em Ciência de Dados e atualmente cursando Análise e Desenvolvimento de Sistemas. Natural de Santa Catarina, e atualmente residindo em Itajaí - SC, tenho 25 anos e mais de 5 anos de experiência profissional na área de Dados. Especializo-me na extração e transformação de dados para traduzi-los em dashboards e insights criativos, utilizando uma combinação de análise estratégica, automação e desenvolvimento de soluções técnicas avançadas. Ao longo da minha carreira, busquei integrar diferentes vertentes da tecnologia para criar soluções inovadoras e eficientes, com foco na otimização e no impacto real para os negócios.
 
 ### Linguagens e Tecnologias
 <img 
