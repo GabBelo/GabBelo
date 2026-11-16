@@ -65,7 +65,7 @@ Acompanhamento da frota em tempo real: veículos no pátio do CD, indo para a lo
   <img src="https://github.com/GabBelo/GabBelo/blob/main/TorreControle.png?raw=true" alt="Torre de Controle (dados fictícios)" width="100%"/>
 </p>
 
-<sub>Print com dados fictícios. Código do case: <a href="https://github.com/GabBelo/torre-de-controle-frota">torre-de-controle-frota</a>.</sub>
+<sub>Tela real do painel com dados fictícios (placas, lojas e quantidades alterados). Versão simplificada do código: <a href="https://github.com/GabBelo/torre-de-controle-frota">torre-de-controle-frota</a>.</sub>
 </details>
 
 <details>
