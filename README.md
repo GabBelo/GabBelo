@@ -50,7 +50,23 @@ Repositórios escritos do zero, com **dados fictícios**, que reproduzem padrõe
 
 ---
 
-### Dashboards em Power BI
+### Dashboards Desenvolvidos
+
+<details>
+<summary><b>Torre de Controle</b> — painel web em tempo real da frota (Node.js)</summary>
+
+<br/>
+
+Acompanhamento da frota em tempo real: veículos no pátio do CD, indo para a loja, em loja, voltando e sem sinal, com destaque para programados parados há mais de 1 h e para indisponíveis. Cache aquecido em segundo plano e filtros no navegador.
+
+**Resultado:** carregamento do painel reduzido de 1 a 2 minutos para poucos segundos.
+
+<p align="center">
+  <img src="https://github.com/GabBelo/GabBelo/blob/main/TorreControle.png?raw=true" alt="Torre de Controle (dados fictícios)" width="100%"/>
+</p>
+
+<sub>Print com dados fictícios. Código do case: <a href="https://github.com/GabBelo/torre-de-controle-frota">torre-de-controle-frota</a>.</sub>
+</details>
 
 <details>
 <summary><b>Indicador de Produtividade da Frota</b> — disponibilidade, operação e taxa de trabalho</summary>
