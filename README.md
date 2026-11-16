@@ -46,7 +46,7 @@ Repositórios escritos do zero, com **dados fictícios**, que reproduzem padrõe
 | [**data-lake-medallion-aws**](https://github.com/GabBelo/data-lake-medallion-aws) | Pipeline Bronze → Silver → Gold de entregas logísticas, com testes e views para o Athena | PySpark · AWS Glue · S3 · Athena · pytest |
 | [**sql-performance-cases**](https://github.com/GabBelo/sql-performance-cases) | Consultas lentas reescritas: SARGability, tabelas temporárias, window functions, índices de cobertura | PostgreSQL · SQL Server · Docker |
 | [**api-entregas-typescript**](https://github.com/GabBelo/api-entregas-typescript) | API de entregas com DDD, contrato único em Zod, OpenAPI e testes automatizados | Bun · Elysia · TypeScript · Zod · Docker |
-| [**integracoes-logisticas-demo**](https://github.com/GabBelo/integracoes-logisticas-demo) | Envio de ocorrências para um parceiro: de-para de códigos, cache de token, retry e idempotência | Bun · TypeScript · SQLite · testes |
+| [**torre-de-controle-frota**](https://github.com/GabBelo/torre-de-controle-frota) | Painel de frota em tempo real: geofence de CD e lojas, alertas de pátio, cache aquecido em segundo plano e métricas de tempo | Node.js · Express · JavaScript · node:test |
 
 ---
 
