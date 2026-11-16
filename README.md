@@ -2,22 +2,22 @@
   <img src="https://github.com/GabBelo/Images/blob/main/Banner_525654.png" alt="Banner Gabriel Belo" width="100%" />
 </div>
 
-## Olá, sou o Gabriel Belo 👋
+## Olá, sou o Gabriel Belo
 
 **Analista de Dados & Desenvolvedor** · Itajaí, SC
 
 Há mais de 9 anos transformo dados da operação logística em decisão — do banco de dados e dos pipelines até as aplicações e integrações que entregam essa informação para o negócio. Trabalho na maior cooperativa de transporte rodoviário de cargas do Brasil, pós-graduado em Logística e pós-graduando em Ciência de Dados.
 
-- 🗄️ **SQL e bancos de dados** — SQL Server, PostgreSQL, MySQL; tuning de consultas, modelagem dimensional
-- 📊 **BI & Analytics** — Power BI (DAX, Power Query/M), dashboards operacionais e gerenciais
-- 🏗️ **Engenharia de dados** — data lake na AWS (S3, Glue, PySpark, Athena), arquitetura Medallion, Airflow
-- 💻 **Desenvolvimento** — Node.js, TypeScript, React, Python, APIs REST/SOAP, Docker, testes, CI/CD
-- 🔗 **Integrações** — EDI, documentos fiscais (CT-e / NF-e), APIs de parceiros logísticos
-- 🤖 **IA aplicada** — IA generativa no desenvolvimento e em pipelines de análise
+- **SQL e bancos de dados** — SQL Server, PostgreSQL, MySQL; tuning de consultas, modelagem dimensional
+- **BI & Analytics** — Power BI (DAX, Power Query/M), dashboards operacionais e gerenciais
+- **Engenharia de dados** — data lake na AWS (S3, Glue, PySpark, Athena), arquitetura Medallion, Airflow
+- **Desenvolvimento** — Node.js, TypeScript, React, Python, APIs REST/SOAP, Docker, testes, CI/CD
+- **Integrações** — EDI, documentos fiscais (CT-e / NF-e), APIs de parceiros logísticos
+- **IA aplicada** — IA generativa no desenvolvimento e em pipelines de análise
 
 ---
 
-### 🧰 Stack
+### Stack
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -37,7 +37,7 @@ Há mais de 9 anos transformo dados da operação logística em decisão — do 
 
 ---
 
-### 🚀 Cases técnicos
+### Cases técnicos
 
 Repositórios escritos do zero, com **dados fictícios**, que reproduzem padrões que uso no dia a dia — nenhum código ou dado de empresa.
 
@@ -50,7 +50,7 @@ Repositórios escritos do zero, com **dados fictícios**, que reproduzem padrõe
 
 ---
 
-### 📊 Dashboards em Power BI
+### Dashboards em Power BI
 
 <details>
 <summary><b>Indicador de Produtividade da Frota</b> — disponibilidade, operação e taxa de trabalho</summary>
@@ -86,7 +86,7 @@ Indicadores de atendimento dentro do prazo, veículos atendidos e fora da fila, 
 
 ---
 
-### 📫 Contato
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--belo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-belo/)
 [![Email](https://img.shields.io/badge/Email-carlosgabriel.belo%40outlook.com.br-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:carlosgabriel.belo@outlook.com.br)
